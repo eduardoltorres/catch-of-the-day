@@ -4,6 +4,9 @@
 .LSOverride
 node_modules/
 .vscode
+.netlify/
+build/
+.npmignore
 
 # Icon must end with two \r
 Icon
