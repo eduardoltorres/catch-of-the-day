@@ -1,6 +1,6 @@
 # Catch Of The Day
 
-Sea food restaurant website built with React. Visit [here](https://catch-of-the-day-eltc.netlify.com/).
+Sea food restaurant interactive website. Built with React and Firebase. Visit [here](https://catch-of-the-day-eltc.netlify.com/).
 
 ![](https://cl.ly/fda163efae8e/Image%2525202019-02-05%252520at%2525204.58.58%252520PM.png)
 
